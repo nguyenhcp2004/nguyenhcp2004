@@ -3,7 +3,7 @@
 My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
 ## 📫 Connect with me: 
   
- <a href="https://www.facebook.com/profile.php?id=100079521849133" target="blank"><img align="center" src="[imgs/facebook.png](https://i.pinimg.com/564x/b5/9d/15/b59d15f1d09ebd9882cad4a448688aac.jpg)" alt="nguyenhcp2004" width="40" /></a>
+ ![FACEBOOK](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=facebook&logoColor=white)
 
 
 
