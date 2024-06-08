@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**nguyenhcp2004/nguyenhcp2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### WELCOME TO MY PAGE 👋👋👋
+My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
+## 📫 Connect with me: 
+  
+ <a href="https://www.facebook.com/profile.php?id=100079521849133" target="blank"><img align="center" src="imgs/facebook.png" alt="adonis.harding" width="40" /></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://github.com/nguyenhcp2004/shopee-clone">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenhcp2004&repo=shopee-clone&theme=onedark" />
+</a>
+
+<a href="https://github.com/nguyenhcp2004/Twitter">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenhcp2004&repo=Twitter&theme=dark" />
+</a> 
+
