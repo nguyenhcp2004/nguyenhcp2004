@@ -52,5 +52,10 @@ My name is Phuong Nguyen. I'm a student at FPT University Ho Chi Minh Campus.<br
 <a href="https://github.com/nguyenhcp2004/Twitter">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenhcp2004&repo=Twitter&theme=dark" />
+</a>
+
+<a href="https://github.com/nguyenhcp2004/quan-ly-quan-an">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenhcp2004&repo=quan-ly-quan-an&theme=tokyonight" />
 </a> 
 
