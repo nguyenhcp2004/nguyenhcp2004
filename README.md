@@ -25,7 +25,7 @@ My name is Phuong Nguyen. I'm a student at FPT University Ho Chi Minh Campus.<br
 	<div align="center">
 		<h3>🎨🎨 FrontEnd 🎨🎨</h3>
   	<a href="https://github.com/nguyenhcp2004">
-    	<img src="https://skillicons.dev/icons?i=ts,redux,react,nextjs,tailwind,bootstrap,pug,sass" />
+    	<img src="https://skillicons.dev/icons?i=ts,redux,react,nextjs,tailwind,bootstrap,pug,sass,materialui" />
   	</a>
 	</div>
 	<div align="center">
