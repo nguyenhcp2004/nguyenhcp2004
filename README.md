@@ -13,7 +13,7 @@ My name is Phuong Nguyen. I'm a student at FPT University Ho Chi Minh Campus.<br
 	<div align="center">
 		<h3>⚙️⚙️ BackEnd ⚙️⚙️</h3>
   	<a href="https://github.com/nguyenhcp2004">
-    	<img src="https://skillicons.dev/icons?i=nodejs" />
+    	<img src="https://skillicons.dev/icons?i=nodejs,springboot" />
   	</a>
 	</div>
 	<div align="center">
