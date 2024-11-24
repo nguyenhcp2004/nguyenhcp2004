@@ -59,3 +59,8 @@ My name is Phuong Nguyen. I'm a student at FPT University Ho Chi Minh Campus.<br
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenhcp2004&repo=quan-ly-quan-an&theme=tokyonight" />
 </a> 
 
+<a href="https://github.com/nguyenhcp2004/pod-booking-system-client">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyenhcp2004&repo=pod-booking-system-client&theme=synthwave" />
+</a> 
+
